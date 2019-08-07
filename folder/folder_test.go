@@ -4,7 +4,7 @@ import "testing"
 
 func TestMethod(t *testing.T) {
 	res := Method()
-	if res != "test" {
+	if res != "test2" {
 		t.Fail()
 	}
 }
