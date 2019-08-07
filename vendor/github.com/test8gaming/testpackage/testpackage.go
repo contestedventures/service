@@ -1,5 +1,5 @@
 package testpackage
 
 func TestMethod() string {
-	return "test2"
+	return "test3"
 }
