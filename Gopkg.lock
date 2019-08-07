@@ -3,11 +3,11 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:9a237ca2213e9268b60349ed082a326d8ecc63c1c18749b22fce908971805e73"
+  digest = "1:f305fbfc94b484e0d0c3dd84eca1b58c7d63f7bcc2c350e9514969502312b6c2"
   name = "github.com/contestedventures/testpackage"
   packages = ["."]
   pruneopts = "UT"
-  revision = "e7e2bd418a66661015ebca697b439b1cdaa1cc20"
+  revision = "5600456911e410df37a297076f110eee9f6fd56c"
 
 [solve-meta]
   analyzer-name = "dep"
